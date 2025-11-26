@@ -1,6 +1,8 @@
 Version: ???
 Date: ???
   Changes:
+    - Redo nexelit-antimony casting - move to smelter, add hot air, tweak
+      numbers slightly
     - Allow productivity in propene-to-acetone
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
