@@ -62,6 +62,12 @@ data:extend {
     },
     {
         type = "bool-setting",
+        name = "pylemon-acetone-prod",
+        setting_type = "startup",
+        default_value = false
+    },
+    {
+        type = "bool-setting",
         name = "pylemon-nexelit-antimony-alloy-casting",
         setting_type = "startup",
         default_value = false
