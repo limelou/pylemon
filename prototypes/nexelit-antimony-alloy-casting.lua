@@ -36,5 +36,4 @@ RECIPE {
             amount = 10
         }
     },
-    allow_productivity = true,
 }:add_unlock("alloys-mk05")
