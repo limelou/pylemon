@@ -6,7 +6,7 @@ RECIPE {
     type = "recipe",
     name = "nexelit-antimony-alloy-casting",
     category = "py-rawores-smelter",
-    energy_required = 8,
+    energy_required = 10,
     ingredients = {
         {
             type = "fluid",
@@ -21,7 +21,7 @@ RECIPE {
         {
             type = "item",
             name = "sand-casting",
-            amount = 6
+            amount = 2
         },
         {
             type = "fluid",
@@ -33,7 +33,7 @@ RECIPE {
         {
             type = "item",
             name = "nxsb-alloy",
-            amount = 10
+            amount = 8
         }
     },
 }:add_unlock("alloys-mk05")
